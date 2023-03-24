@@ -1,0 +1,3 @@
+/Users/imranmatloob/Desktop/newProjectC++/Section4/firstProject/cmake-build-debug/CMakeFiles/firstProject.dir
+/Users/imranmatloob/Desktop/newProjectC++/Section4/firstProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/imranmatloob/Desktop/newProjectC++/Section4/firstProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
